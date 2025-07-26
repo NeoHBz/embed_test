@@ -1,0 +1,1 @@
+hyperfine --runs 3 --export-json results.json 'python -m venv .venv && source .venv/bin/activate && python save_embed.py'
