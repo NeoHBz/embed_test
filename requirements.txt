@@ -1,4 +1,7 @@
-sentence_transformers
+sentence-transformers
 numpy
-faiss-cpu
+faiss-gpu
 nltk
+torch
+torchvision
+torchaudio
